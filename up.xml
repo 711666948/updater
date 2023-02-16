@@ -1,1 +1,7 @@
-yes 1.0.1 https://raw.githubusercontent.com/711666948/updater/main/gw.exe
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>2.0.0.0</version>
+  <url>https://raw.githubusercontent.com/711666948/updater/main/gw.exe</url>
+  <changelog>https://github.com/711666948/updater/releases</changelog>
+  <mandatory>true</mandatory>
+</item>
